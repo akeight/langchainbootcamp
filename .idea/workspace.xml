@@ -4,10 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f4104ec-b057-4ee2-adf3-53d2c04f6af7" name="Changes" comment="Started bootcamp. Completed up to section 2.6.">
+    <list default="true" id="9f4104ec-b057-4ee2-adf3-53d2c04f6af7" name="Changes" comment="Learned about prompt templates and built a travel itinerary generator.">
+      <change afterPath="$PROJECT_DIR$/few-shot-prompt-templates.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lc-chatmodels.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lc-chatmodels.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lc-models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/lc-models.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/travel-itinerary-project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/travel-itinerary-project.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,6 +61,8 @@
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Started bootcamp. Completed up to section 2.6." />
-    <option name="LAST_COMMIT_MESSAGE" value="Started bootcamp. Completed up to section 2.6." />
+    <MESSAGE value="Updated .env cache, installed packages, updated code that was deprecated" />
+    <MESSAGE value="Learned about prompt templates and built a travel itinerary generator." />
+    <option name="LAST_COMMIT_MESSAGE" value="Learned about prompt templates and built a travel itinerary generator." />
   </component>
 </project>
