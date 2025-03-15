@@ -4,17 +4,13 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f4104ec-b057-4ee2-adf3-53d2c04f6af7" name="Changes" comment="Learned parsing outputs and how to save prompts for others to use.">
-      <change afterPath="$PROJECT_DIR$/model-io/history-quiz.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/model-io/myprompt.json" afterDir="false" />
+    <list default="true" id="9f4104ec-b057-4ee2-adf3-53d2c04f6af7" name="Changes" comment="Finished Models I/O section and built an AI history quiz">
+      <change afterPath="$PROJECT_DIR$/data-connections/document-loaders.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-connections/embeddings.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-connections/multiquery-retrieval.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-connections/text-splitters.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data-connections/vector-store.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/chat-models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model-io/chat-models.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/few-shot-prompt-templates.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model-io/few-shot-prompt-templates.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model-io/models.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/parsing-output.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model-io/parsing-output.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/prompt-template.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model-io/prompt-template.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/serialization.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model-io/serialization.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/travel-itinerary-project.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/model-io/travel-itinerary-project.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +56,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\allys\DataspellProjects\langchainbootcamp\data-connections" />
       <recent name="C:\Users\allys\DataspellProjects\langchainbootcamp\model-io" />
     </key>
   </component>
@@ -88,6 +85,7 @@
     <MESSAGE value="Learned about prompt templates and built a travel itinerary generator." />
     <MESSAGE value="Built few shot prompts to refine ai chat responses." />
     <MESSAGE value="Learned parsing outputs and how to save prompts for others to use." />
-    <option name="LAST_COMMIT_MESSAGE" value="Learned parsing outputs and how to save prompts for others to use." />
+    <MESSAGE value="Finished Models I/O section and built an AI history quiz" />
+    <option name="LAST_COMMIT_MESSAGE" value="Finished Models I/O section and built an AI history quiz" />
   </component>
 </project>
