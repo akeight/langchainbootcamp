@@ -4,13 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f4104ec-b057-4ee2-adf3-53d2c04f6af7" name="Changes" comment="Finished Models I/O section and built an AI history quiz">
-      <change afterPath="$PROJECT_DIR$/data-connections/document-loaders.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-connections/embeddings.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-connections/multiquery-retrieval.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-connections/text-splitters.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data-connections/vector-store.ipynb" afterDir="false" />
+    <list default="true" id="9f4104ec-b057-4ee2-adf3-53d2c04f6af7" name="Changes" comment="Kept going">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data-connections/multiquery-retrieval.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data-connections/multiquery-retrieval.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,12 +44,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "master"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\allys\DataspellProjects\langchainbootcamp\data-connections" />
@@ -86,6 +83,7 @@
     <MESSAGE value="Built few shot prompts to refine ai chat responses." />
     <MESSAGE value="Learned parsing outputs and how to save prompts for others to use." />
     <MESSAGE value="Finished Models I/O section and built an AI history quiz" />
-    <option name="LAST_COMMIT_MESSAGE" value="Finished Models I/O section and built an AI history quiz" />
+    <MESSAGE value="Kept going" />
+    <option name="LAST_COMMIT_MESSAGE" value="Kept going" />
   </component>
 </project>
