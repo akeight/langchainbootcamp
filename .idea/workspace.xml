@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f4104ec-b057-4ee2-adf3-53d2c04f6af7" name="Changes" comment="Kept going">
+    <list default="true" id="9f4104ec-b057-4ee2-adf3-53d2c04f6af7" name="Changes" comment="Retrievers (multiquery retrievers are deprecated)">
+      <change afterPath="$PROJECT_DIR$/data-connections/context-compression.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/langchainbootcamp.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/langchainbootcamp.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data-connections/multiquery-retrieval.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data-connections/multiquery-retrieval.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +51,9 @@
   "keyToString": {
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/allys/DataspellProjects/transformers-bot",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -84,6 +89,7 @@
     <MESSAGE value="Learned parsing outputs and how to save prompts for others to use." />
     <MESSAGE value="Finished Models I/O section and built an AI history quiz" />
     <MESSAGE value="Kept going" />
-    <option name="LAST_COMMIT_MESSAGE" value="Kept going" />
+    <MESSAGE value="Retrievers (multiquery retrievers are deprecated)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Retrievers (multiquery retrievers are deprecated)" />
   </component>
 </project>
